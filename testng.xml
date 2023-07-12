@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CST5556Suite">
+  <test thread-count="5" name="CST5556Test_1">
+    <classes>
+      <class name="day30jun23.Annotations1"/>
+    </classes>
+  </test> <!-- CST5556Test -->
+  <test thread-count="5" name="CST5556Test_2">
+    <classes>
+      <class name="day30jun23.Annotations2"/>
+    </classes>
+  </test> <!-- CST5556Test -->
+
+
+</suite> <!-- CST5556Suite -->

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SuiteCST5556]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TestCST5556(failed)">
+    <classes>
+      <class name="day11Jul23.GoogleTest">
+        <methods>
+          <include name="GTest"/>
+        </methods>
+      </class> <!-- day11Jul23.GoogleTest -->
+    </classes>
+  </test> <!-- TestCST5556(failed) -->
+</suite> <!-- Failed suite [SuiteCST5556] -->
